@@ -1,0 +1,42 @@
+{
+  "users": {
+    "冯云冲": {
+      "username": "冯云冲",
+      "password": "fyc520zrz",
+      "nickname": "冲宝",
+      "gender": "male",
+      "createdAt": "2026-11-06T06:58:01.509Z"
+    },
+    "17627970629": {
+      "username": "17627970629",
+      "password": "fyc520zrz",
+      "nickname": "冲宝",
+      "gender": "male",
+      "createdAt": "2026-11-06T07:44:08.694Z"
+    }
+  },
+  "loveTree": {
+    "waterDrops": 0,
+    "sunlight": 0,
+    "level": 3,
+    "exp": 30,
+    "maxExp": 225,
+    "radarScores": {
+      "日常习惯": 85,
+      "情绪共鸣": 80,
+      "敏锐感知": 88,
+      "共同记忆": 82,
+      "默契反应": 86,
+      "协作信任": 90
+    },
+    "unlockedMemories": [
+      {
+        "id": 1,
+        "title": "初次相遇的瞬间",
+        "date": "2025-05-20",
+        "note": "无论隔着多远，我们的心跳在此刻连接。"
+      }
+    ]
+  },
+  "gameHistory": []
+}
